@@ -13,4 +13,4 @@ Make the tests pass.
 
 * [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
 
-<a href='https://learn.co/lessons/josh_000' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/josh_000' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
